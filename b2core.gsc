@@ -1,0 +1,2 @@
+#inline b2core;
+
